@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Harmony Care Main - ECPv6.10.0//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Harmony Care Main
+X-ORIGINAL-URL:https://harmony-care.cmsmasters.net/main
+X-WR-CALDESC:Events for Harmony Care Main
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+TZNAME:UTC
+DTSTART:20250101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20250919T080000
+DTEND;TZID=UTC:20250919T170000
+DTSTAMP:20250404T110250
+CREATED:20240822T102618Z
+LAST-MODIFIED:20240822T102618Z
+UID:38811-1758268800-1758301200@harmony-care.cmsmasters.net
+SUMMARY:Musical Events
+DESCRIPTION:The European languages are members of the same family. Their separate existence is a myth. For science\, music\, sport\, etc\, Europe uses the same vocabulary. The languages only differ in their grammar\, their pronunciation and their most common words. Everyone realizes why a new common language would be desirable: one could refuse to pay expensive translators. To achieve this\, it would be necessary to have uniform grammar\, pronunciation and more common words. If several languages coalesce\, the grammar of the resulting language is more simple and regular than that of the individual languages. The new common language will be more simple and regular than the existing European languages. It will be as simple as Occidental; in fact\, it will be Occidental. To an English person\, it will seem like simplified English\, as a skeptical Cambridge friend of mine told me what Occidental is.The European languages are members of the same family.
+URL:https://harmony-care.cmsmasters.net/main/event/musical-events/
+LOCATION:Harmony Care\, 511 SW 10th Ave 1206\,\, Portland\, OR\, OR\, United States
+CATEGORIES:Activities
+ATTACH;FMTTYPE=image/webp:https://harmony-care.cmsmasters.net/main/wp-content/uploads/sites/3/2025/01/54-event-6.webp
+ORGANIZER;CN="Emma Thompson":MAILTO:info@example.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20250920T080000
+DTEND;TZID=UTC:20250920T170000
+DTSTAMP:20250404T110250
+CREATED:20240822T181116Z
+LAST-MODIFIED:20240822T181116Z
+UID:38824-1758355200-1758387600@harmony-care.cmsmasters.net
+SUMMARY:Tailgate Parties
+DESCRIPTION:The European languages are members of the same family. Their separate existence is a myth. For science\, music\, sport\, etc\, Europe uses the same vocabulary. The languages only differ in their grammar\, their pronunciation and their most common words. Everyone realizes why a new common language would be desirable: one could refuse to pay expensive translators. To achieve this\, it would be necessary to have uniform grammar\, pronunciation and more common words. If several languages coalesce\, the grammar of the resulting language is more simple and regular than that of the individual languages. The new common language will be more simple and regular than the existing European languages. It will be as simple as Occidental; in fact\, it will be Occidental. To an English person\, it will seem like simplified English\, as a skeptical Cambridge friend of mine told me what Occidental is.The European languages are members of the same family.
+URL:https://harmony-care.cmsmasters.net/main/event/tailgate-parties/
+LOCATION:Harmony Care\, 511 SW 10th Ave 1206\,\, Portland\, OR\, OR\, United States
+CATEGORIES:Activities
+ATTACH;FMTTYPE=image/webp:https://harmony-care.cmsmasters.net/main/wp-content/uploads/sites/3/2025/01/54-event-5.webp
+ORGANIZER;CN="Emma Thompson":MAILTO:info@example.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20251013T080000
+DTEND;TZID=UTC:20251013T170000
+DTSTAMP:20250404T110250
+CREATED:20240822T180609Z
+LAST-MODIFIED:20240822T180609Z
+UID:38816-1760342400-1760374800@harmony-care.cmsmasters.net
+SUMMARY:Birthday Parties
+DESCRIPTION:The European languages are members of the same family. Their separate existence is a myth. For science\, music\, sport\, etc\, Europe uses the same vocabulary. The languages only differ in their grammar\, their pronunciation and their most common words. Everyone realizes why a new common language would be desirable: one could refuse to pay expensive translators. To achieve this\, it would be necessary to have uniform grammar\, pronunciation and more common words. If several languages coalesce\, the grammar of the resulting language is more simple and regular than that of the individual languages. The new common language will be more simple and regular than the existing European languages. It will be as simple as Occidental; in fact\, it will be Occidental. To an English person\, it will seem like simplified English\, as a skeptical Cambridge friend of mine told me what Occidental is.The European languages are members of the same family.
+URL:https://harmony-care.cmsmasters.net/main/event/birthday-parties/
+LOCATION:Harmony Care\, 511 SW 10th Ave 1206\,\, Portland\, OR\, OR\, United States
+CATEGORIES:Activities
+ATTACH;FMTTYPE=image/webp:https://harmony-care.cmsmasters.net/main/wp-content/uploads/sites/3/2025/01/54-event-4.webp
+ORGANIZER;CN="Emma Thompson":MAILTO:info@example.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20251015T080000
+DTEND;TZID=UTC:20251015T170000
+DTSTAMP:20250404T110250
+CREATED:20240822T180737Z
+LAST-MODIFIED:20240822T180737Z
+UID:38818-1760515200-1760547600@harmony-care.cmsmasters.net
+SUMMARY:Dancing Competition
+DESCRIPTION:The European languages are members of the same family. Their separate existence is a myth. For science\, music\, sport\, etc\, Europe uses the same vocabulary. The languages only differ in their grammar\, their pronunciation and their most common words. Everyone realizes why a new common language would be desirable: one could refuse to pay expensive translators. To achieve this\, it would be necessary to have uniform grammar\, pronunciation and more common words. If several languages coalesce\, the grammar of the resulting language is more simple and regular than that of the individual languages. The new common language will be more simple and regular than the existing European languages. It will be as simple as Occidental; in fact\, it will be Occidental. To an English person\, it will seem like simplified English\, as a skeptical Cambridge friend of mine told me what Occidental is.The European languages are members of the same family.
+URL:https://harmony-care.cmsmasters.net/main/event/dancing-competition/
+LOCATION:Harmony Care\, 511 SW 10th Ave 1206\,\, Portland\, OR\, OR\, United States
+CATEGORIES:Activities
+ATTACH;FMTTYPE=image/webp:https://harmony-care.cmsmasters.net/main/wp-content/uploads/sites/3/2025/01/54-event-3.webp
+ORGANIZER;CN="Emma Thompson":MAILTO:info@example.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20251114T080000
+DTEND;TZID=UTC:20251114T170000
+DTSTAMP:20250404T110250
+CREATED:20240822T180900Z
+LAST-MODIFIED:20240822T180900Z
+UID:38820-1763107200-1763139600@harmony-care.cmsmasters.net
+SUMMARY:Tennis For Seniors
+DESCRIPTION:The European languages are members of the same family. Their separate existence is a myth. For science\, music\, sport\, etc\, Europe uses the same vocabulary. The languages only differ in their grammar\, their pronunciation and their most common words. Everyone realizes why a new common language would be desirable: one could refuse to pay expensive translators. To achieve this\, it would be necessary to have uniform grammar\, pronunciation and more common words. If several languages coalesce\, the grammar of the resulting language is more simple and regular than that of the individual languages. The new common language will be more simple and regular than the existing European languages. It will be as simple as Occidental; in fact\, it will be Occidental. To an English person\, it will seem like simplified English\, as a skeptical Cambridge friend of mine told me what Occidental is.The European languages are members of the same family.
+URL:https://harmony-care.cmsmasters.net/main/event/tennis-for-seniors/
+LOCATION:Harmony Care\, 511 SW 10th Ave 1206\,\, Portland\, OR\, OR\, United States
+CATEGORIES:Classes
+ATTACH;FMTTYPE=image/webp:https://harmony-care.cmsmasters.net/main/wp-content/uploads/sites/3/2025/01/54-event-2.webp
+ORGANIZER;CN="Emma Thompson":MAILTO:info@example.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20251130T080000
+DTEND;TZID=UTC:20251130T170000
+DTSTAMP:20250404T110250
+CREATED:20240822T181010Z
+LAST-MODIFIED:20240822T181010Z
+UID:38822-1764489600-1764522000@harmony-care.cmsmasters.net
+SUMMARY:Yoga For Seniors
+DESCRIPTION:The European languages are members of the same family. Their separate existence is a myth. For science\, music\, sport\, etc\, Europe uses the same vocabulary. The languages only differ in their grammar\, their pronunciation and their most common words. Everyone realizes why a new common language would be desirable: one could refuse to pay expensive translators. To achieve this\, it would be necessary to have uniform grammar\, pronunciation and more common words. If several languages coalesce\, the grammar of the resulting language is more simple and regular than that of the individual languages. The new common language will be more simple and regular than the existing European languages. It will be as simple as Occidental; in fact\, it will be Occidental. To an English person\, it will seem like simplified English\, as a skeptical Cambridge friend of mine told me what Occidental is.The European languages are members of the same family.
+URL:https://harmony-care.cmsmasters.net/main/event/yoga-for-seniors/
+LOCATION:Harmony Care\, 511 SW 10th Ave 1206\,\, Portland\, OR\, OR\, United States
+CATEGORIES:Classes
+ATTACH;FMTTYPE=image/webp:https://harmony-care.cmsmasters.net/main/wp-content/uploads/sites/3/2025/01/54-event-1.webp
+ORGANIZER;CN="Emma Thompson":MAILTO:info@example.com
+END:VEVENT
+END:VCALENDAR
